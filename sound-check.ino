@@ -1,7 +1,6 @@
 #include <WiFi.h>
 #include <WiFiClient.h>
 #include <WiFiServer.h>
-#include <WiFiUdp.h>
 
 /* Delay between each sample, in ms */
 #define DELAY 100
